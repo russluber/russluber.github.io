@@ -5,9 +5,9 @@ permalink: /
 subtitle: Trying, failing, but learning still. Back to basics, but building skill.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Me eating pizza</p>
     <p>Drawn by my girlfriend ❤️</p>
