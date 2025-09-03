@@ -46,6 +46,26 @@
     { "language": "English", "fluency": "Native speaker", "icon": ""},
     { "language": "Tagalog", "fluency": "Fluent", "icon": ""}
   ],
+  "interests": [
+    {
+      "name": "Bayesian Statistics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Decision theory",
+        "Forecasting",
+        "Markov Chain Monte Carlo"
+      ]
+    },
+    {
+      "name": "Causal Inference",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Causal identification",
+        "Causal discovery",
+        "Experimental design"
+      ]
+    }
+  ],
   "awards": [],
   "certificates": [],
   "publications": [],
