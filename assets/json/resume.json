@@ -43,8 +43,8 @@
     }
   ],
   "languages": [
-    {"language": "English", "fluency": "Native speaker", "icon": ""}, 
-    {"language": "Tagalog", "fluency": "Fluent", "icon": ""}
+    { "language": "English", "fluency": "Native speaker", "icon": ""},
+    { "language": "Tagalog", "fluency": "Fluent", "icon": ""}
   ],
   "awards": [],
   "certificates": [],
