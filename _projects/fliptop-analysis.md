@@ -11,5 +11,3 @@ related_publications: false
 Under construction. Work in progress. 
 
 [README](https://github.com/russluber/fliptop-analysis#readme).
-
-
