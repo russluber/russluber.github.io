@@ -8,8 +8,8 @@
     "url": "https://russluber.github.io/",
     "summary": "Data science student at UC San Diego",
     "location": {
-      "address": "",
-      "postalCode": "CA 92037",
+      "address": "9500 Gilman Dr",
+      "postalCode": "CA 92093",
       "city": "La Jolla",
       "countryCode": "US",
       "region": "California"
@@ -41,6 +41,10 @@
       "score": "",
       "courses": []
     }
+  ],
+  "languages": [
+    {"language": "English", "fluency": "Native speaker", "icon": ""}, 
+    {"language": "Tagalog", "fluency": "Fluent", "icon": ""}
   ],
   "awards": [],
   "certificates": [],
