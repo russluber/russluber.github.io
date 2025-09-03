@@ -8,6 +8,6 @@ category: work
 related_publications: false
 ---
 
-Under construction. Work in progress. 
+Under construction. Work in progress. Still in EDA.
 
 [README](https://github.com/russluber/fliptop-analysis#readme).
