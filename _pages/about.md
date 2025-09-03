@@ -29,8 +29,7 @@ latest_posts:
 [Data science](https://datascience.ucsd.edu/) undergrad at [UC San Diego](https://ucsd.edu/) interested in causal inference, Bayesian statistics, forecasting, and game theory.
 
 In my free time, I love:
-
 - Going on walks
 - Reading books
 - Listening to podcasts
-- Learning how to box.
+- Learning how to box
