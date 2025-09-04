@@ -14,3 +14,6 @@ _pages/about.md
 _projects/*
 assets/json/resume.json
 _data/socials.yml
+Gemfile
+Gemfile.lock
+_layouts/post.liquid
