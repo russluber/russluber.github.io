@@ -41,14 +41,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/hello-world/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "projects-fliptop-analysis",
+      },{id: "projects-fliptop-analysis",
           title: 'FlipTop Analysis',
-          description: "Exploring the world of Filipino battle rap",
+          description: "Exploring the world of Filipino battle rap.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fliptop-analysis/";
             },},{
