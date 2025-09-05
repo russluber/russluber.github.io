@@ -46,6 +46,11 @@ ninja.data = [{
           description: "Exploring the world of Filipino battle rap.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fliptop-analysis/";
+            },},{id: "projects-blood-sugar-rollercoaster",
+          title: 'Blood Sugar Rollercoaster',
+          description: "Visualizing How Proteins and Carbohydrates Impact Blood Sugar Levels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gylcemic-charts/";
             },},{
         id: 'social-email',
         title: 'email',
