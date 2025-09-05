@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FlipTop Analysis
-description: Exploring the world of Filipino battle rap
+description: Exploring the world of Filipino battle rap.
 img: assets/img/empty.svg
 importance: 1
 category: work
