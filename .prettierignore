@@ -19,3 +19,4 @@ Gemfile.lock
 _layouts/post.liquid
 _config.yml
 _posts/*
+_config.dev.yml
