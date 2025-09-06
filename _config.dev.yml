@@ -22,16 +22,37 @@
 url: "http://127.0.0.1:4000"
 baseurl: ""
 
-# Turn off heavy/minifying steps in dev
-minifier:
-  enabled: false
+# Replace plugin list for dev (omit terser, jekyll-minifier, jekyll-imagemagick)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - jekyll-toc
+  - jekyll-tabs
+  - jekyll-get-json
+  - jekyll-link-attributes
+  - jekyll-email-protect
+  - jekyll-archives-v2
+  - jekyll-twitter-plugin
+  - jekyll-regex-replace
+  - jekyll-jupyter-notebook
+  - jemoji
 
-terser:
-  enabled: false
+# Optional: exclude extra stuff from the dev build (keeps the watcher quieter)
+exclude:
+  - node_modules
+  - vendor
+  - tmp
+  - .sass-cache
+  - .jekyll-cache
+  - .bundle
+  - README.md
+  - CUSTOMIZE.md
+  - Gemfile.lock
+  - package-lock.json
+  - docker
+  - scripts
 
-# Skip image processing locally (Windows path issues, faster builds)
-imagemagick:
-  enabled: false
 
 # Optional: make sure we don't accidentally produce production-y output locally
 # (Jekyll sets JEKYLL_ENV=development for `serve` anyway, but this is a reminder)
