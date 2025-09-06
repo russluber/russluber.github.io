@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Trying, failing, but learning still. Back to basics, but building skill.
+subtitle: Trying, failing, but learning still. Iterating and building skill.
 
 profile:
   align: right
