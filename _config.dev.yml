@@ -1,0 +1,38 @@
+# _config.dev.yml — local-only overrides
+# -----------------------------------------------------------------------------
+# Purpose: Local development overrides for Jekyll/al-folio.
+# How it works: Jekyll merges multiple config files. When you run:
+#   bundle exec jekyll serve --livereload --incremental --config _config.yml,_config.dev.yml
+# settings in _config.dev.yml override matching keys from _config.yml.
+#
+# Merge rules to remember:
+# - Scalars (strings/numbers/bools): replaced by the later file.
+# - Maps (objects): merged key-by-key; later values win.
+# - Arrays (lists, e.g., `plugins:`): REPLACED entirely by the later file.
+#   => Don’t put `plugins:` here unless you intend to replace the main list.
+#
+# Why this file: Speeds up local builds and avoids Windows issues by disabling
+# heavy/minifying/image steps you don’t need while previewing.
+#
+# Tip: Keep this file committed so teammates get the same dev behavior, or add
+# it to .gitignore if you prefer it to stay local-only.
+# -----------------------------------------------------------------------------
+
+# Serve from localhost, no subpath
+url: "http://127.0.0.1:4000"
+baseurl: ""
+
+# Turn off heavy/minifying steps in dev
+minifier:
+  enabled: false
+
+terser:
+  enabled: false
+
+# Skip image processing locally (Windows path issues, faster builds)
+imagemagick:
+  enabled: false
+
+# Optional: make sure we don't accidentally produce production-y output locally
+# (Jekyll sets JEKYLL_ENV=development for `serve` anyway, but this is a reminder)
+# environment: development
