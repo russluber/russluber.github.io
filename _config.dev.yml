@@ -36,3 +36,9 @@ imagemagick:
 # Optional: make sure we don't accidentally produce production-y output locally
 # (Jekyll sets JEKYLL_ENV=development for `serve` anyway, but this is a reminder)
 # environment: development
+
+# -----------------------------------------------------------------------------------------
+# Live Preview Command
+# -----------------------------------------------------------------------------------------
+# 
+# bundle exec jekyll serve --livereload --incremental --config _config.yml,_config.dev.yml

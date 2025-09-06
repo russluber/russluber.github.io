@@ -578,3 +578,9 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------------------
+# Live Preview Command
+# -----------------------------------------------------------------------------------------
+# 
+# bundle exec jekyll serve --livereload --incremental --config _config.yml,_config.dev.yml
