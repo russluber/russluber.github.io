@@ -44,7 +44,8 @@
   ],
   "languages": [
     { "language": "English", "fluency": "Native speaker", "icon": ""},
-    { "language": "Tagalog", "fluency": "Fluent", "icon": ""}
+    { "language": "Tagalog", "fluency": "Fluent", "icon": ""}, 
+    {"language": "Bicolano", "fluency": "Native speaker", "icon": ""}
   ],
   "interests": [
     {
