@@ -29,6 +29,4 @@ In my free time, I love:
 - Listening to podcasts
 - Learning how to box
 
-My intellectual first love was psychology. But I found myself more curious about the methods sections of the papers I was reading than the actual papers themselves. That's when I discovered my love for statistics. Since then, I've broadened my horizons and pivoted to data science. 
-
 I'm currently shoring up my mathematical foundations with [Math Academy](https://www.mathacademy.com/). No two ways about it. I'm gonna get good at math.
