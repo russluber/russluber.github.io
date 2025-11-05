@@ -51,6 +51,11 @@ ninja.data = [{
           description: "Visualizing How Proteins and Carbohydrates Impact Blood Sugar Levels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gylcemic-charts/";
+            },},{id: "projects-project-scrapyard",
+          title: 'Project Scrapyard',
+          description: "Analyzing UFC fight data",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project-scrapyard/";
             },},{
         id: 'social-email',
         title: 'email',
