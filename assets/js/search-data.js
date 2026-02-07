@@ -53,7 +53,7 @@ ninja.data = [{
               window.location.href = "/projects/gylcemic-charts/";
             },},{id: "projects-project-scrapyard",
           title: 'Project Scrapyard',
-          description: "Analyzing UFC fight data",
+          description: "Estimating the Striking Accuracy of UFC Fighters",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project-scrapyard/";
             },},{
