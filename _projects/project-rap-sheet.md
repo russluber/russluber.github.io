@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FlipTop Analysis
+title: Project Rap Sheet
 description: Exploring the world of Filipino battle rap.
 img: assets/img/empty.svg
 importance: 1
@@ -10,4 +10,4 @@ related_publications: false
 
 Under construction. Work in progress. Still in EDA.
 
-[README](https://github.com/russluber/fliptop-analysis#readme).
+[README](https://github.com/russluber/project-rap-sheet#readme).
