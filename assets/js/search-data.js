@@ -41,16 +41,16 @@ ninja.data = [{
             window.location.href = "/blog/2025/hello-world/";
           
         },
-      },{id: "projects-fliptop-analysis",
-          title: 'FlipTop Analysis',
-          description: "Exploring the world of Filipino battle rap.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/fliptop-analysis/";
-            },},{id: "projects-blood-sugar-rollercoaster",
+      },{id: "projects-blood-sugar-rollercoaster",
           title: 'Blood Sugar Rollercoaster',
           description: "Visualizing How Proteins and Carbohydrates Impact Blood Sugar Levels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gylcemic-charts/";
+            },},{id: "projects-project-rap-sheet",
+          title: 'Project Rap Sheet',
+          description: "Exploring the world of Filipino battle rap.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project-rap-sheet/";
             },},{id: "projects-project-scrapyard",
           title: 'Project Scrapyard',
           description: "Estimating the Striking Accuracy of UFC Fighters",
