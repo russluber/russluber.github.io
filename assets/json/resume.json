@@ -6,7 +6,7 @@
     "email": "russelhluber@gmail.com",
     "phone": "",
     "url": "https://russluber.github.io/",
-    "summary": "Data science student at UC San Diego skilled in statistical inference, machine learning, and forecasting.",
+    "summary": "Data science student at UC San Diego skilled in statistical inference and machine learning.",
     "location": {
       "address": "9500 Gilman Dr",
       "postalCode": "CA 92093",
@@ -17,18 +17,6 @@
     "profiles": []
   },
   "work": [],
-  "volunteer": [
-    {
-      "organization": "Triton Food Pantry",
-      "location": "UC San Diego",
-      "position": "Volunteer",
-      "url": "https://basicneeds.ucsd.edu/food-security/pantry/index.html",
-      "startDate": "2025-07-07",
-      "endDate": "2025-08-07",
-      "summary": "Assisted students in accessing nutritious food, organized inventory, and promoted equitable food access on campus.",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "University of California San Diego",
@@ -52,9 +40,9 @@
       "name": "Bayesian Statistics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Decision theory",
+        "Decision-making",
         "Forecasting",
-        "Markov Chain Monte Carlo"
+        "Statistical inference"
       ]
     },
     {
@@ -62,7 +50,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Causal identification",
-        "Causal discovery",
+        "Effect estimation",
         "Experimental design"
       ]
     }
