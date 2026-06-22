@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Trying, failing, but learning still. Iterating and building skill.
+subtitle: Trying, failing, but learning still.
 
 profile:
   align: right
@@ -21,12 +21,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-[Data science](https://datascience.ucsd.edu/) undergrad at [UC San Diego](https://ucsd.edu/) interested in causal inference, Bayesian statistics, forecasting, and game theory. Not necessarily in that order. Well, actually, maybe.
+Did my [Data science](https://datascience.ucsd.edu/) undergrad at [UC San Diego](https://ucsd.edu/). 
+
+Interested in causal inference, Bayesian statistics, and everything in between.
 
 In my free time, I love:
 - Going on walks
 - Reading books
 - Listening to podcasts
-- Learning how to box
-
-I'm currently shoring up my mathematical foundations with [Math Academy](https://www.mathacademy.com/). No two ways about it. I'm gonna get good at math.
+- Boxing
