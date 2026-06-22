@@ -23,7 +23,7 @@ latest_posts:
 
 Did my [Data science](https://datascience.ucsd.edu/) undergrad at [UC San Diego](https://ucsd.edu/). 
 
-Interested in causal inference, Bayesian statistics, and everything in between.
+Interested in causal inference, Bayesian statistics, data science, and everything in between.
 
 In my free time, I love:
 - Going on walks
